@@ -1,2 +1,3 @@
-# live-chat-module
-Live Chat module for FreeScout helpdesk
+# FreeScout Live Chat Module
+
+Live Chat module for [FreeScout](https://github.com/freescout-helpdesk/freescout).
